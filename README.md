@@ -6,3 +6,6 @@ Hu, Xiaolin, et al. "Hybrid response dynamic multi-objective optimization algori
 If you have any questions, please do not hesitate to ask: huxl9559@163.com
 
 2024\10\30 update: The previous uniform_change_response.m file has been modified because of a bug in the format adjustment.
+
+Run platemo and click test module or experiment module .
+If you get an error when clicking test module, please ignore it because the zip file I uploaded only contains my own algorithm and all other algorithms have been deleted.

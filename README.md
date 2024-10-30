@@ -3,4 +3,6 @@ Please refer to the code folder for the full code of MABH-DMOEA. Since the dynam
 If you find our algorithm helpful, please cite:
 Hu, Xiaolin, et al. "Hybrid response dynamic multi-objective optimization algorithm based on multi-arm bandit model." Information Sciences 681 (2024): 121192.
 
-If you have any questions, please do not hesitate to ask: xiaolin@bupt.edu.cn
+If you have any questions, please do not hesitate to ask: huxl9559@163.com
+
+2024\10\30 update: The previous uniform_change_response.m file has been modified because of a bug in the format adjustment.
